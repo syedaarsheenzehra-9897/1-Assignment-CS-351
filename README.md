@@ -14,6 +14,8 @@ public class PercentageMarks {
         System.out.printf("Percentage);
     }
 }
+
+
 Q#2:-
 import java.util.Scanner;
 public class Circle
